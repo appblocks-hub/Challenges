@@ -12,11 +12,11 @@ On Each repository Block you can see its issues and work on issues which have #h
 
 Make sure to watch the video from ["What the T#CH"](https://hacktoberfest.appblocks.com/#techSection) section.
 
-If you see any bugs or you got feedback? make sure to add those as a Github issue in corresponding repository 
+If you wish to report a bugs or feedback, make sure to add them as a Github issue in its corresponding repository
 
 or
 
-Blocks in mind? Post it as a New Issue under this Repo.
+Do you have an idea for Blocks in mind? Post it as a New Issue under this Repo.
 
 To get updates about the challenges / our product updates. [Join our Discord.](https://discord.com/invite/b7YSVvHp2x)
 
