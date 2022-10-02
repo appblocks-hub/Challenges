@@ -16,11 +16,10 @@ If you see any bugs or you got feedback? make sure to add those as a Github issu
 
 or
 
-You have new ideas? Post it as a New Issue under this Repo.
+Blocks in mind? Post it as a New Issue under this Repo.
 
 To get updates about the challenges / our product updates. [Join our Discord.](https://discord.com/invite/b7YSVvHp2x)
 
 | Block / Issue | Type | Status |
 | ----------- | ----------- | ----------- |
-|[Windows Support for Job Block](https://github.com/appblocks-hub/BB-CLI/issues/9)   | CLI features   |Open       |
 |[Windows Support for Job Block](https://github.com/appblocks-hub/BB-CLI/issues/9)   | CLI features   |Open       |
