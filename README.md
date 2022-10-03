@@ -1,7 +1,5 @@
 # Challenges
 
-## Hello world!
-
 # Welcome to DRY Days.
 
 Here are the list of Blocks and Github Issues you can contribute.
@@ -24,6 +22,6 @@ Hit star button to the projects to make the blocks you built and the tools of ou
 | Block / Issue | Type | Status |
 | ----------- | ----------- | ----------- |
 |[Windows Support for Job Block](https://github.com/appblocks-hub/BB-CLI/issues/9)   | CLI features   |Open       |
-|[Send email using nodemailer](https://github.com/Blocks-by-Appblocks/send_email_nodemailer) | Function block Creation | Open |
-|[Send sms using twilio](https://github.com/Blocks-by-Appblocks/sms_using_twilio) | Function block Creation | Open |
-|[Send email using nodemailer & gmail](https://github.com/Blocks-by-Appblocks/send_email_nodemailer_using_gmail) | Function block Creation | open|
+|[Send email using nodemailer](https://github.com/Blocks-by-Appblocks/send_email_nodemailer) | Function Block Creation | Open |
+|[Send sms using twilio](https://github.com/Blocks-by-Appblocks/sms_using_twilio) | Function Block Creation | Open |
+|[Send email using nodemailer & gmail](https://github.com/Blocks-by-Appblocks/send_email_nodemailer_using_gmail) | Function Block Creation | open|
