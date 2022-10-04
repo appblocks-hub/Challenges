@@ -18,7 +18,7 @@ Do you have ideas for Blocks in mind? Post it as a new issue under this repo.
 
 To make your blocks and our tools reach more developers, hit the start button on the projects.
 
-[Join our Discord.](https://discord.com/invite/b7YSVvHp2x) To get updates about the challenges / our product updates, 
+[Join our Discord](https://discord.com/invite/b7YSVvHp2x) to get updates about the challenges / our product updates, 
 | Block / Issue | Type | Status |
 | ----------- | ----------- | ----------- |
 |[Windows Support for Job Block](https://github.com/appblocks-hub/BB-CLI/issues/9)   | CLI features   |Open       |
