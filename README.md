@@ -26,4 +26,4 @@ Hit star button to the projects to make the blocks you built and the tools of ou
 |[Send sms using twilio](https://store.appblocks.com/details/readme/Rphe-jAApTMH8UIGoFqt7) | Function Block Creation | Open |
 |[Send email using nodemailer & gmail](https://store.appblocks.com/details/readme/TqL4OOWIP3k6g4GM1Ijx-) | Function Block Creation | open|
 |[Function Blocks to upload files to s3](https://store.appblocks.com/details/readme/56VZVbE0ue1HkJnS_yg4i) | Function Block Creation | open|
-|[function_to_create_thumbnail_images_using_ImageMagick]([https://store.appblocks.com/details/readme/56VZVbE0ue1HkJnS_yg4i](https://store.appblocks.com/details/readme/Zp3hIVljQv_GZ6v_1_9un)) | Function Block Creation | open|
+|[function_to_create_thumbnail_images_using_ImageMagick](https://store.appblocks.com/details/readme/Zp3hIVljQv_GZ6v_1_9un) | Function Block Creation | open|
