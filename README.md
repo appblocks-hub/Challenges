@@ -22,6 +22,7 @@ Hit star button to the projects to make the blocks you built and the tools of ou
 | Block / Issue | Type | Status |
 | ----------- | ----------- | ----------- |
 |[Windows Support for Job Block](https://github.com/appblocks-hub/BB-CLI/issues/9)   | CLI features   |Open       |
-|[Send email using nodemailer](https://github.com/Blocks-by-Appblocks/send_email_nodemailer) | Function Block Creation | Open |
-|[Send sms using twilio](https://github.com/Blocks-by-Appblocks/sms_using_twilio) | Function Block Creation | Open |
-|[Send email using nodemailer & gmail](https://github.com/Blocks-by-Appblocks/send_email_nodemailer_using_gmail) | Function Block Creation | open|
+|[Send email using nodemailer](https://store.appblocks.com/details/readme/EXHcztuWkJfWKW0YejuqU) | Function Block Creation | Open |
+|[Send sms using twilio](https://store.appblocks.com/details/readme/Rphe-jAApTMH8UIGoFqt7) | Function Block Creation | Open |
+|[Send email using nodemailer & gmail](https://store.appblocks.com/details/readme/TqL4OOWIP3k6g4GM1Ijx-) | Function Block Creation | open|
+|[Function Blocks to upload files to s3](https://store.appblocks.com/details/readme/56VZVbE0ue1HkJnS_yg4i) | Function Block Creation | open|
