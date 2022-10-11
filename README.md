@@ -27,5 +27,5 @@ To make your blocks and our tools reach more developers, hit the start button on
 |[Send email using nodemailer & gmail](https://store.appblocks.com/details/readme/TqL4OOWIP3k6g4GM1Ijx-) | Function Block Creation | open|
 |[Function Blocks to upload files to s3](https://store.appblocks.com/details/readme/56VZVbE0ue1HkJnS_yg4i) | Function Block Creation | open|
 |[function_to_create_thumbnail_images_using_ImageMagick](https://store.appblocks.com/details/readme/Zp3hIVljQv_GZ6v_1_9un) | Function Block Creation | open|
-|[function_block_to_create_s3_presigned_url](https://store.appblocks.com/details/readme/9R7V3Af4N5F36wNfZ2UDo) | Function Block Creation | open|
+|[function_block_to_create_s3_presigned_url](https://store.appblocks.com/details/readme/9R7V3Af4N5F36wNfZ2UDo) | Function Block Creation | Closed|
 
