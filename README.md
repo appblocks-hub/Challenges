@@ -23,3 +23,6 @@ If you wish to report bugs or give feedback, make sure to add them as a GitHub i
 |[Get ticket activity log function block](https://github.com/appblocks-hub/open_tms/issues/5) | Function Block Creation | Closed|
 |[Close ticket function block](https://github.com/appblocks-hub/open_tms/issues/6) | Function Block Creation | Closed|
 
+[View all our issues](https://github.com/appblocks-hub/open_tms/issues)
+
+
