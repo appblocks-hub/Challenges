@@ -19,7 +19,7 @@ If you wish to report bugs or give feedback, make sure to add them as a GitHub i
 |[Update ticket function block](https://github.com/appblocks-hub/open_tms/issues/2) | Function Block Creation | Open |
 |[Reassign ticket function block](https://github.com/appblocks-hub/open_tms/issues/3) | Function Block Creation | Open |
 |[Get ticket activity log function](https://github.com/appblocks-hub/open_tms/issues/5) | Function Block Creation | Open |
-|[List ticket function block](https://github.com/appblocks-hub/open_tms/issues/4) | Function Block Creation | open|
+|[List ticket function block](https://github.com/appblocks-hub/open_tms/issues/4) | Function Block Creation | Open|
 |[Get ticket activity log function block](https://github.com/appblocks-hub/open_tms/issues/5) | Function Block Creation | Open|
 |[Close ticket function block](https://github.com/appblocks-hub/open_tms/issues/6) | Function Block Creation | Open|
 
